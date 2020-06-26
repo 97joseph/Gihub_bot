@@ -1,0 +1,19 @@
+{
+  "name": "hack",
+  "version": "1.0.0",
+  "description": "A small hack file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/97joseph/Gihub_bot.git"
+  },
+  "author": "Kibira Joseph Nyuguto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/97joseph/Gihub_bot/issues"
+  },
+  "homepage": "https://github.com/97joseph/Gihub_bot#readme"
+}
