@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/97joseph/Gihub_bot/issues"
   },
-  "homepage": "https://github.com/97joseph/Gihub_bot#readme"
+  "homepage": "https://github.com/97joseph/Gihub_bot#readme",
+  "dependencies": {
+    "jsonfile": "^6.0.1"
+  }
 }
