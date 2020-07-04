@@ -11,9 +11,10 @@
   const data={date:DATE}
 
   //Try catch for counter methods
+//Counter methods 
 
-  for (number=0;number<=50;number=number+1){
+  
   jsonfile.writeFile(FILE_PATH,data, ()=>{ simpleGit().add([FILE_PATH]).commit(DATE, {'--date':DATE}).push();});
-  }
+  
   //Git commit --date=""
  
