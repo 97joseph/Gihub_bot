@@ -7,7 +7,7 @@
   const FILE_PATH='./data.json';
 
   //Time from the  initial time initiate
-  const DATE=moment().subtract(8,'d').format();
+  const DATE=moment().subtract(1,'d').format();
   const data={date:DATE}
 
   //Try catch for counter methods
