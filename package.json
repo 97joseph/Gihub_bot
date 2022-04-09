@@ -18,7 +18,7 @@
   "homepage": "https://github.com/97joseph/Gihub_bot#readme",
   "dependencies": {
     "jsonfile": "^6.0.1",
-    "moment": "^2.27.0",
+    "moment": "^2.29.2",
     "simple-git": "^2.11.0"
   }
 }
